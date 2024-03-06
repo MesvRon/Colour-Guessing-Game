@@ -34,4 +34,9 @@ Installation
 
 
 1. Fork the clone repository.
-2. Run the program.
+2. Run the program : python.py
+
+
+Libraries Used :
+
+1. tkinter(GUI)
