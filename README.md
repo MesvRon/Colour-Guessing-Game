@@ -37,6 +37,8 @@ Installation
 2. Run the program : python.py
 
 
-Libraries Used :
+Technologies Used :
 
-1. tkinter(GUI)
+1. Python
+2. tkinter(GUI)
+3. Random Module
