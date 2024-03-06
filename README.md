@@ -1,6 +1,7 @@
 <h1 align = "center">Colour-Guessing-Game</h1>
-<p align = "center"><img src = "Game_Screenshot.png" alt ="Game Screenshot"></p>
 
+
+![Game_Screenshot png](https://github.com/Abhirup-Raha/Colour-Guessing-Game/assets/141893158/88b010ca-b94c-48ee-9703-2ba326c63fd0)
 
 ABOUT THE GAME
 
@@ -32,4 +33,5 @@ HOW TO PLAY
 Installation
 
 
-Clone the repository :
+1. Fork the clone repository.
+2. Run the program.
